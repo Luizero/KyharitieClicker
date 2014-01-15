@@ -23,7 +23,6 @@ public class clickScript : MonoBehaviour {
 	void Start () {
 		cash = GameObject.Find("GuiCash").GetComponent("cashScript") as cashScript;
 		kuumotus = GameObject.Find("kuumotusmittari").GetComponent("kuumotusScript") as kuumotusScript;
-		weedScore = GameObject.Find("GuiWeed").GetComponent("weedScript") as weedScript;
 		
 		if (chip)
 		{
