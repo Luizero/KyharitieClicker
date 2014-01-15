@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\clickScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\kuumotusScript.cs">
     <Files>
-      <File FileName="Assets\hatsiParticleScript.cs" Line="19" Column="1" />
-      <File FileName="Assets\clickScript.cs" Line="19" Column="33" />
+      <File FileName="Assets\Scripts\clickScript.cs" Line="26" Column="76" />
+      <File FileName="Assets\Scripts\weedScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\kuumotusScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
