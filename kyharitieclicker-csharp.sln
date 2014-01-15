@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{E551E896-05D6-E16F-62F2-0ECF454851F6}") = "KyharitieClicker", "Assembly-CSharp-vs.csproj", "{30B1576A-B862-ADD6-C2D6-3E7A3A5F3E2B}"
+Project("{4C8AA122-9B36-89D8-2B66-6DF578AD1AE7}") = "kyharitieclicker", "Assembly-CSharp-vs.csproj", "{D51F5895-A7C8-AAA8-EE08-40975853B3B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30B1576A-B862-ADD6-C2D6-3E7A3A5F3E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30B1576A-B862-ADD6-C2D6-3E7A3A5F3E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30B1576A-B862-ADD6-C2D6-3E7A3A5F3E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30B1576A-B862-ADD6-C2D6-3E7A3A5F3E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51F5895-A7C8-AAA8-EE08-40975853B3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51F5895-A7C8-AAA8-EE08-40975853B3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51F5895-A7C8-AAA8-EE08-40975853B3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51F5895-A7C8-AAA8-EE08-40975853B3B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																GlobalSection(MonoDevelopProperties) = preSolution
+																		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
