@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{30B1576A-B862-ADD6-C2D6-3E7A3A5F3E2B}</ProjectGuid>
+	<ProjectGuid>{D51F5895-A7C8-AAA8-EE08-40975853B3B5}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -44,13 +44,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\cashScript.cs" />
-     <Compile Include="Assets\Scripts\clickScript.cs" />
-     <Compile Include="Assets\Scripts\hatsiParticleScript.cs" />
-     <Compile Include="Assets\Scripts\kuumotusScript.cs" />
-     <Compile Include="Assets\Scripts\luuriScript.cs" />
-     <Compile Include="Assets\Scripts\tvScript.cs" />
-     <Compile Include="Assets\Scripts\weedScript.cs" />
+     <Compile Include="Assets\GUIScript.cs" />
+     <Compile Include="Assets\cashScript.cs" />
+     <Compile Include="Assets\clickScript.cs" />
+     <Compile Include="Assets\hatsiParticleScript.cs" />
+     <Compile Include="Assets\kuumotusScript.cs" />
+     <Compile Include="Assets\luuriScript.cs" />
+     <Compile Include="Assets\tvScript.cs" />
+     <Compile Include="Assets\weedScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
